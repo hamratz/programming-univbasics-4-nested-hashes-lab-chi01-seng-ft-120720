@@ -91,8 +91,8 @@ def adding_matz
       }
     }
 programmer_hash[:yukihiro_matsumoto] = [ 
-  { :known_for => "Prince Escalus" },
-  { name: "Apothecary" }
+  { :known_for => "Ruby" },
+  { :languages => [ "Apothecary" }
   ]
 
 end
