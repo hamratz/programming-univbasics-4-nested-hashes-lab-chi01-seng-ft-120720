@@ -96,6 +96,7 @@ programmer_hash[0] =
     :known_for => "Ruby",
     :languages =>  ["LISP", "C"] 
   }
+  programmer_hash
 }
   
 
